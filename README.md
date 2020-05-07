@@ -1,1 +1,1 @@
-This is the read me file of our first project.
+This is the read me file of my first project.
